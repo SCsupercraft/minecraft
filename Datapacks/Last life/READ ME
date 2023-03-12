@@ -1,0 +1,3 @@
+To first start your last life world run the command /function last-life:start (only use this once)
+When you want a boogy to be choosen run the command /function last-life:boogy (I would recomend using once a session)
+To end a session run the command /function last-life:end (use at the end of every session)
